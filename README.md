@@ -4,5 +4,5 @@ Sqaure cartogram using pure D3, showing CO2 emissions per capita in metric tons 
 # Data
 World Bank
 
-#Code
+# Code
 Example based on this repository: https://github.com/StudioV2/Demers_Cartogram_Example
